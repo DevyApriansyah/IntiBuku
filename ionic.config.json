@@ -1,0 +1,8 @@
+{
+  "name": "IntiBuku",
+  "app_id": "1ec23754",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
